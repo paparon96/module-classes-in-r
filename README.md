@@ -8,7 +8,7 @@ R is not actually an object-oriented language in any real sense.
 
 But it has things that it calls "classes", and things that it calls "methods."
 
-They look more like "types" and "polymorphic functions" from the functional-programming world.
+They look more like "types" and "polymorphic functions" as used in the functional-programming world.
 
 ---
 

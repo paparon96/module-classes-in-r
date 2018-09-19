@@ -8,7 +8,7 @@ R is not actually an object-oriented language in any real sense.
 
 But it has things that it calls "classes", and things that it calls "methods."
 
-They look more like "types" and "polymorphic functions" from the functional-programming world.
+They look more like "types" and "polymorphic functions" as used in the functional-programming world.
 
 ---
 
@@ -221,5 +221,15 @@ coef.simple_model <- function(model) model$coef
 
 [1] 0.4677848
 ```
+
+## Polymorphic Functions
+
+The important thing about all of this technique is this concept of:
+
+"Think about your users"
+
+It's not a business concept. Your user is usually another function.
+
+But it's important to think about building tools that are reliable and easy to use. If your program consists of tools that are reliable and easy to use, it will be less likely that you have misused them, and therefore less likely to have bugs!
 
 ---
